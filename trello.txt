@@ -1,0 +1,60 @@
+http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf
+https://git-scm.com/book/en/v2
+Etl pipelines
+https://en.wikipedia.org/wiki/Just-in-time_compilation
+arch: OOP, AOP, n-tier, microservices
+https://www-cs-faculty.stanford.edu/~knuth/books.html
+https://handmadehero.org/
+Design patterns, collections, generics, LINQ, tasks and parallelism, REST, MVVM, and MVC.
+static classes -why bad
+https://martinfowler.com/bliki/CQRS.html
+http://blog.ploeh.dk/2010/02/03/ServiceLocatorIsAnAntiPattern.aspx
+http://martinfowler.com/articles/injection.html
+http://www.ctp.bilkent.edu.tr/~russell/java/LectureNotes/1_OOConcepts.htm
+https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf
+https://martinfowler.com/articles/injection.html
+https://martinfowler.com/articles/richardsonMaturityModel.html
+Berkeley CS61A - Structure and Interpretation of Computer Programs
+https://composingprograms.com/
+https://cs61a.org/
+Structure/Interpretation of Comp Programs Book (DRIVE)
+http://web.mit.edu/alexmv/6.037/sicp.pdf
+https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf
+https://www.alliancereservations.com/developer-test.html
+DI/IOC/Interfaces
+SOLID principles
+software engineering (planning, UML, analysis, etc)
+Caching
+zero-cost abstractions, move semantics, guaranteed memory safety, threads without data races, trait-based generics, pattern matching, type inference, minimal runtime and efficient C bindings
+https://teachyourselfcs.com/
+https://techdevguide.withgoogle.com/
+indexing
+DI
+SOLID
+OOP
+REST API
+unit/integration testing
+design patterns
+RDBMS
+ACID principles (DB)
+execution paths
+execution plans
+eventing
+messaging
+queues
+parallelization/concurrency
+distributed systems
+code reusability
+microservices / service communication
+data flow + data structures
+concurrency
+BOOKLIST: The Pragmatic Programmer, Design Patterns - Elements of Reusable Software, Think Like a Programmer
+
+
+
+
+
+
+
+
+
