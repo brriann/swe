@@ -51,6 +51,15 @@ concurrency
 BOOKLIST: The Pragmatic Programmer, Design Patterns - Elements of Reusable Software, Think Like a Programmer
 
 
+OAUTH2
+https://oauth2.thephpleague.com/installation/
+https://developers.google.com/identity/protocols/oauth2
+
+Open Source Society University
+
+http://www.gwtproject.org/
+
+buddy ci-cd
 
 
 
