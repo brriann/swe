@@ -1,0 +1,5 @@
+RS botting libraries
+Travis CI
+Maven / Gradle
+MySQL
+Apache Ant
