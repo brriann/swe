@@ -9,3 +9,5 @@ https://docs.microsoft.com/en-us/azure/active-directory-b2c/session-behavior?piv
 Tokens (Id, Access, Refresh) config
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-tokens?pivots=b2c-custom-policy
 
+API Scopes, Access Tokens
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/access-tokens
