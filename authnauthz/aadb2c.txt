@@ -1,0 +1,9 @@
+OAuth2 Auth Code flow
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow
+
+Session behavior
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/session-behavior?pivots=b2c-custom-policy
+
+Tokens (Id, Access, Refresh) config
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-tokens?pivots=b2c-custom-policy
+

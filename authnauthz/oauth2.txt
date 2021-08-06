@@ -1,0 +1,4 @@
+OAUTH2
+https://oauth2.thephpleague.com/installation/
+https://developers.google.com/identity/protocols/oauth2
+
