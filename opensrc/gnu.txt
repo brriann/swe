@@ -1,0 +1,5 @@
+XBOARD - chess client
+https://www.gnu.org/software/xboard/
+
+GNU Chess - chess engine
+https://www.gnu.org/software/chess/
