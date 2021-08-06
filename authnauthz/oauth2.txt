@@ -2,3 +2,8 @@ OAUTH2
 https://oauth2.thephpleague.com/installation/
 https://developers.google.com/identity/protocols/oauth2
 
+/authorize endpoint
+request authorization code
+
+/token endpoint
+request access token

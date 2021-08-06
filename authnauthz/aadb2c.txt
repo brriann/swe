@@ -11,3 +11,10 @@ https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-tokens?piv
 
 API Scopes, Access Tokens
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/access-tokens
+
+
+/authorize endpoint
+request authorization code
+
+/token endpoint
+request access token
