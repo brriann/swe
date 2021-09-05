@@ -1,0 +1,8 @@
+https://aws.amazon.com/blogs/architecture/introduction-to-messaging-for-modern-cloud-architecture/
+
+AWS MQ
+AWS SQS
+RabbitMQ
+Azure ServiceBus
+Azure StorageQueue
+Apache ActiveMQ
