@@ -57,6 +57,10 @@ http://www.gwtproject.org/
 
 buddy ci-cd
 
+CQRS / Serverless
+https://medium.com/@richg0/serverless-cqrs-in-azure-p1-e0f2c423f071
+https://medium.com/contino-engineering/beginning-the-quest-for-serverless-cqrs-event-sourcing-8bfd5c9eb71e
+https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
 
 
 
